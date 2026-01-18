@@ -32,7 +32,7 @@
 - **Impact:** Eliminates external API costs and ensures **GDPR compliance** by keeping 100% of the data within the local infrastructure.
 - (Codenamed "Kitsu")
 
-### 2️⃣)) [Enterprise Multi-Platform ETL Engine](LINK_A_TU_REPO)
+### 2️⃣)) [Enterprise Multi-Platform ETL Engine](https://github.com/IGabrielMolina/enterprise-social-etl.git)
 > **Engineering Focus:** High-Availability & Scalability.
 - **The Solution:** A robust n8n-based ETL pipeline synchronizing real-time metrics for **23 corporate accounts** across TikTok, Meta, and YouTube.
 - **Key Architecture:** Advanced JavaScript nodes for O(1) deduplication and **Atomic Consistency** (Delete-before-Write) to ensure data integrity.
