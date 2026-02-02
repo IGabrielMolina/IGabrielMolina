@@ -19,13 +19,11 @@
 
 ---
 
-<div align="center">
+---
 
 | **My Tech Stack** | **Github Stats** |
 | :--- | :--- |
-| **🧠 The Brain (AI)**<br>![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-R1-blue?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-red?style=flat-square)<br><br>**⚙️ The Engine (Back)**<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br><br>**⚡ The Logic (Orch)**<br>![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat-square&logo=n8n&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | <img src="https://github-readme-stats.vercel.app/api?username=IGabrielMolina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="160" alt="stats graph" /> |
-
-</div>
+| **🧠 The Brain (AI)**<br>![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-R1-blue?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-red?style=flat-square)<br><br>**⚙️ The Engine (Back)**<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br><br>**⚡ The Logic (Orch)**<br>![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat-square&logo=n8n&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | [![Gabriel's Stats](https://github-readme-stats.vercel.app/api?username=IGabrielMolina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)](https://github.com/IGabrielMolina) |
 
 ---
 
@@ -56,8 +54,10 @@ A high-performance pipeline synchronizing real-time metrics for **23 corporate a
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGabrielMolina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="140" alt="languages graph" />
-  <br>
-  <br>
-  <p>Currently based in Argentina (UTC-3) 🇦🇷</p>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IGabrielMolina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/IGabrielMolina)
+  
+<br>
+<p>Currently based in Argentina (UTC-3) 🇦🇷</p>
+
 </div>
