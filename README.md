@@ -3,9 +3,10 @@
 # Hi there, I'm Gabriel Molina 👋
 ### AI Automation Engineer | Backend Architect | Data Sovereignist
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ivangabrielmolina)
-[![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gabeesd06s@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ivangabrielmolina)
+[![Mail Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gabeesd06s@gmail.com)
 
+<br>
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336791&center=true&vCenter=true&width=600&lines=Architecting+Secure+Local+AI+Agents;Engineering+Resilient+ETL+Pipelines;100%25+Data+Sovereignty+%26+RBAC" alt="Typing SVG" />
@@ -19,17 +20,22 @@
 
 ---
 
----
+<div align="center">
 
-| **My Tech Stack** | **Github Stats** |
-| :--- | :--- |
-| **🧠 The Brain (AI)**<br>![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-R1-blue?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-red?style=flat-square)<br><br>**⚙️ The Engine (Back)**<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br><br>**⚡ The Logic (Orch)**<br>![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat-square&logo=n8n&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | [![Gabriel's Stats](https://github-readme-stats.vercel.app/api?username=IGabrielMolina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)](https://github.com/IGabrielMolina) |
+### 🛠️ Technical Arsenal
+
+| **🧠 The Brain (AI)** | **⚙️ The Engine (Backend)** | **⚡ The Logic (Orch)** |
+| :---: | :---: | :---: |
+| ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white)<br>![DeepSeek](https://img.shields.io/badge/DeepSeek-R1-blue?style=flat-square)<br>![Qdrant](https://img.shields.io/badge/Qdrant-red?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat-square&logo=n8n&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+</div>
 
 ---
 
 ## 🏆 High-Impact Projects
 
 ### 🦊 [Kitsu_Agent: Enterprise Local RAG System](https://github.com/IGabrielMolina/Kitsu_agent)
+![Demos Included](https://img.shields.io/badge/🎥_Live_Demos_Inside-FF0000?style=flat-square&logo=youtube&logoColor=white)
 > **Engineering Focus:** Security, Observability, and Data Sovereignty.
 
 A secure **AI Orchestration Engine** featuring metadata-based RBAC and self-healing logic.
@@ -54,10 +60,6 @@ A high-performance pipeline synchronizing real-time metrics for **23 corporate a
 ---
 
 <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IGabrielMolina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/IGabrielMolina)
-  
-<br>
-<p>Currently based in Argentina (UTC-3) 🇦🇷</p>
-
+  <p>Currently based in Argentina (UTC-3) 🇦🇷</p>
+  <p>Open for Global Engineering Opportunities</p>
 </div>
