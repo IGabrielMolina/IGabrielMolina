@@ -48,10 +48,10 @@ A secure **AI Orchestration Engine** featuring metadata-based RBAC and self-heal
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 <br>
-<div align="center">
-### ⚡ [Enterprise Multi-Platform ETL Engine](https://github.com/IGabrielMolina/enterprise-social-etl)
+### ⚡[Enterprise Multi-Platform ETL Engine](https://github.com/IGabrielMolina/enterprise-social-etl)
 > **Engineering Focus:** High-Availability (HA) & Atomic Consistency.
 </div>
+
 A high-performance pipeline synchronizing real-time metrics for **23 corporate accounts** (TikTok, Meta, YouTube).
 * **Atomic Integrity:** Optimized nodes for $O(1)$ deduplication and Delete-before-Write strategy.
 * **Resilience:** Self-healing architecture that manages OAuth2 refreshes and API rate-limits autonomously.
