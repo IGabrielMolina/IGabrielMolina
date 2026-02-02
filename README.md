@@ -33,11 +33,16 @@
 ---
 
 <div align="center">
+
 ## 🏆 High-Impact Projects
+
+<br>
 
 ### 🦊 [Kitsu_Agent: Enterprise Local RAG System](https://github.com/IGabrielMolina/Kitsu_agent)
 ![Demos Included](https://img.shields.io/badge/🎥_Live_Demos_Inside-FF0000?style=flat-square&logo=youtube&logoColor=white)
+
 > **Engineering Focus:** Security, Observability, and Data Sovereignty.
+
 </div>
 
 A secure **AI Orchestration Engine** featuring metadata-based RBAC and self-healing logic.
@@ -45,11 +50,21 @@ A secure **AI Orchestration Engine** featuring metadata-based RBAC and self-heal
 * **Audit Trail:** Implemented real-time telemetry in PostgreSQL (Confidence Scores & Latency).
 * **Security:** Deterministic RBAC ensuring users only access authorized vectors in Qdrant.
 
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+</div>
+
 <br>
-### ⚡[Enterprise Multi-Platform ETL Engine](https://github.com/IGabrielMolina/enterprise-social-etl)
+<br>
+
+<div align="center">
+
+### ⚡ [Enterprise Multi-Platform ETL Engine](https://github.com/IGabrielMolina/enterprise-social-etl)
+
 > **Engineering Focus:** High-Availability (HA) & Atomic Consistency.
+
 </div>
 
 A high-performance pipeline synchronizing real-time metrics for **23 corporate accounts** (TikTok, Meta, YouTube).
@@ -57,7 +72,11 @@ A high-performance pipeline synchronizing real-time metrics for **23 corporate a
 * **Resilience:** Self-healing architecture that manages OAuth2 refreshes and API rate-limits autonomously.
 * **Impact:** Automates 16+ hours/week of manual data gathering.
 
+<div align="center">
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+</div>
 
 ---
 
