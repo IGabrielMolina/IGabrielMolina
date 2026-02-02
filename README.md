@@ -38,8 +38,10 @@
 
 <br>
 
+<div align="center">
+
 ### 🦊 [Kitsu_Agent: Enterprise Local RAG System](https://github.com/IGabrielMolina/Kitsu_agent)
-![Demos Included](https://img.shields.io/badge/🎥_Live_Demos_Inside-FF0000?style=flat-square&logo=youtube&logoColor=white)
+[![Demos Included](https://img.shields.io/badge/🎥_Live_Demos_Inside-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://github.com/IGabrielMolina/Kitsu_agent)
 
 > **Engineering Focus:** Security, Observability, and Data Sovereignty.
 
