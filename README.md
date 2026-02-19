@@ -84,23 +84,23 @@ A secure **AI Orchestration Engine** featuring metadata-based RBAC and self-heal
 <br>
 <br>
 
-
 <div align="center">
 
-### ⚡ [Enterprise Multi-Platform ETL Engine](https://github.com/IGabrielMolina/enterprise-social-etl)
+### ⚡ [enterprise-crm-gateway: Event-Driven API Middleware](https://github.com/IGabrielMolina/enterprise-crm-gateway)
 
-> **Engineering Focus:** High-Availability (HA) & Atomic Consistency.
+> **Engineering Focus:** Event-Driven Architecture, Stateless Microservices, and OAuth2 Lifecycle Management.
 
 </div>
 
-A high-performance pipeline synchronizing real-time metrics for **23 corporate accounts** (TikTok, Meta, YouTube).
-* **Atomic Integrity:** Optimized nodes for $O(1)$ deduplication and Delete-before-Write strategy.
-* **Resilience:** Self-healing architecture that manages OAuth2 refreshes and API rate-limits autonomously.
-* **Impact:** Automates 16+ hours/week of manual data gathering.
+A professional-grade middleware service synchronizing real-time database events to external CRM platforms.
+* **Event-Driven Pipeline:** Engineered PostgreSQL Triggers to detect table inserts, pushing real-time payloads to an n8n orchestration layer for data normalization.
+* **Stateless Token Management:** Developed an asynchronous FastAPI microservice (using `asyncpg` pooling) that autonomously handles OAuth2 refresh flows, persisting state securely in a dedicated database schema.
+* **Production-Ready Security:** Implemented a dual-layer security model utilizing `X-API-Key` header validation for webhook writes, and Basic Auth for Swagger UI discovery.
+* **Scalable Infrastructure:** 12-Factor App compliant, fully containerized (Docker), and designed to scale horizontally behind a load balancer.
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat&logo=n8n&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 </div>
 
