@@ -38,8 +38,6 @@
 
 <br>
 
-<div align="center">
-
 ### 💳 [kitsu-fintech-engine: Autonomous Financial Pipeline](https://github.com/IGabrielMolina/kitsu-fintech-engine)
 
 > **Engineering Focus:** Protocol Bridging, Asynchronous Scaling, and Deterministic Validation.
@@ -47,10 +45,14 @@
 </div>
 
 A high-performance **Middleware & ETL Pipeline** that bridges legacy protocols with modern AI-driven orchestration.
-* **Legacy-to-Modern Bridge:** Engineered a seamless integration between legacy mail protocols (IMAP/SMTP via SMTP4dev) and a modern REST API architecture.
-* **Async Middleware:** Developed a FastAPI backend that orchestrates local LLM inference (Qwen 2.5 14B) using non-blocking `async/await` logic for real-time document auditing.
-* **Human-in-the-Loop (HITL):** Implemented a risk-aware routing system that triggers Slack-based manual approvals for transactions >$4,000 before committing to PostgreSQL.
-* **Resilient Persistence:** Optimized SQL schema with custom `Check Constraints` to ensure data integrity across the entire ingestion lifecycle.
+
+**Legacy-to-Modern Bridge:** Engineered a seamless integration between legacy mail protocols (IMAP/SMTP via SMTP4dev) and a modern REST API architecture.
+
+**Async Middleware:** Developed a FastAPI backend that orchestrates local LLM inference (Qwen 2.5 14B) using non-blocking `async/await` logic for real-time document auditing.
+
+**Human-in-the-Loop (HITL):** Implemented a risk-aware routing system that triggers Slack-based manual approvals for transactions >$4,000 before committing to PostgreSQL.
+
+**Resilient Persistence:** Optimized SQL schema with custom `Check Constraints` to ensure data integrity across the entire ingestion lifecycle.
 
 <div align="center">
 
@@ -71,9 +73,12 @@ A high-performance **Middleware & ETL Pipeline** that bridges legacy protocols w
 </div>
 
 A secure **AI Orchestration Engine** featuring metadata-based RBAC and self-healing logic.
-* **Zero-Egress:** Runs `DeepSeek-R1` locally via Ollama. No data leaves the server.
-* **Audit Trail:** Implemented real-time telemetry in PostgreSQL (Confidence Scores & Latency).
-* **Security:** Deterministic RBAC ensuring users only access authorized vectors in Qdrant.
+
+**Zero-Egress:** Runs `DeepSeek-R1` locally via Ollama. No data leaves the server.
+
+**Audit Trail:** Implemented real-time telemetry in PostgreSQL (Confidence Scores & Latency).
+
+**Security:** Deterministic RBAC ensuring users only access authorized vectors in Qdrant.
 
 <div align="center">
   
@@ -93,15 +98,26 @@ A secure **AI Orchestration Engine** featuring metadata-based RBAC and self-heal
 </div>
 
 A professional-grade middleware service synchronizing real-time database events to external CRM platforms.
-* **Event-Driven Pipeline:** Engineered PostgreSQL Triggers to detect table inserts, pushing real-time payloads to an n8n orchestration layer for data normalization.
-* **Stateless Token Management:** Developed an asynchronous FastAPI microservice (using `asyncpg` pooling) that autonomously handles OAuth2 refresh flows, persisting state securely in a dedicated database schema.
-* **Production-Ready Security:** Implemented a dual-layer security model utilizing `X-API-Key` header validation for webhook writes, and Basic Auth for Swagger UI discovery.
-* **Scalable Infrastructure:** 12-Factor App compliant, fully containerized (Docker), and designed to scale horizontally behind a load balancer.
+
+**Event-Driven Pipeline:** Engineered PostgreSQL Triggers to detect table inserts, pushing real-time payloads to an n8n orchestration layer for data normalization.
+
+**Stateless Token Management:** Developed an asynchronous FastAPI microservice (using `asyncpg` pooling) that autonomously handles OAuth2 refresh flows, persisting state securely in a dedicated database schema.
+
+**Production-Ready Security:** Implemented a dual-layer security model utilizing `X-API-Key` header validation for webhook writes, and Basic Auth for Swagger UI discovery.
+
+**Scalable Infrastructure:** 12-Factor App compliant, fully containerized (Docker), and designed to scale horizontally behind a load balancer.
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat&logo=n8n&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+</div>
+
+---
+
+<div align="center">
+  <p>Currently based in Argentina (UTC-3) 🇦🇷</p>
+  <p>Open for Global Engineering Opportunities</p>
 </div>
 
 ---
