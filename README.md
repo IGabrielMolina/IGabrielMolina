@@ -93,10 +93,3 @@ A professional-grade middleware service synchronizing real-time database events 
   <p>Currently based in Argentina (UTC-3) 🇦🇷</p>
   <p>Open for Global Engineering Opportunities</p>
 </div>
-
----
-
-<div align="center">
-  <p>Currently based in Argentina (UTC-3) 🇦🇷</p>
-  <p>Open for Global Engineering Opportunities</p>
-</div>
