@@ -36,32 +36,6 @@
 
 ## 🏆 High-Impact Projects
 
-<br>
-
-### 💳 [kitsu-fintech-engine: Autonomous Financial Pipeline](https://github.com/IGabrielMolina/kitsu-fintech-engine)
-
-> **Engineering Focus:** Protocol Bridging, Asynchronous Scaling, and Deterministic Validation.
-
-</div>
-
-A high-performance **Middleware & ETL Pipeline** that bridges legacy protocols with modern AI-driven orchestration.
-
-**Legacy-to-Modern Bridge:** Engineered a seamless integration between legacy mail protocols (IMAP/SMTP via SMTP4dev) and a modern REST API architecture.
-
-**Async Middleware:** Developed a FastAPI backend that orchestrates local LLM inference (Qwen 2.5 14B) using non-blocking `async/await` logic for real-time document auditing.
-
-**Human-in-the-Loop (HITL):** Implemented a risk-aware routing system that triggers Slack-based manual approvals for transactions >$4,000 before committing to PostgreSQL.
-
-**Resilient Persistence:** Optimized SQL schema with custom `Check Constraints` to ensure data integrity across the entire ingestion lifecycle.
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat&logo=n8n&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-</div>
-
-<br>
-<br>
 
 <div align="center">
 
