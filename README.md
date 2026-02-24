@@ -9,7 +9,7 @@
 <br>
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336791&center=true&vCenter=true&width=600&lines=Architecting+Secure+Local+AI+Agents;Engineering+Resilient+ETL+Pipelines;100%25+Data+Sovereignty+%26+RBAC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336791&center=true&vCenter=true&width=700&lines=Architecting+Stateful+AI+Systems;Engineering+Fault-Tolerant+Agents;100%25+Data+Sovereignty+%26+Local+LLMs" alt="Typing SVG" />
 
 </div>
 
