@@ -65,7 +65,7 @@ A high-performance **Middleware & ETL Pipeline** that bridges legacy protocols w
 
 <div align="center">
 
-### 🦊 [Kitsu_Agent: Enterprise Local RAG System](https://github.com/IGabrielMolina/Kitsu_agent)
+### 🦊 [Kitsu_Agent: Sovereign On-Premise AI Orchestrator](https://github.com/IGabrielMolina/Kitsu_agent)
 [![Demos Included](https://img.shields.io/badge/🎥_Live_Demos_Inside-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://github.com/IGabrielMolina/Kitsu_agent)
 
 > **Engineering Focus:** Security, Observability, and Data Sovereignty.
@@ -91,25 +91,25 @@ A secure **AI Orchestration Engine** featuring metadata-based RBAC and self-heal
 
 <div align="center">
 
-### ⚡ [enterprise-crm-gateway: Event-Driven API Middleware](https://github.com/IGabrielMolina/enterprise-crm-gateway)
+### ⚡ [python-zoho-crm-bridge: Event-Driven CRM Middleware](https://github.com/IGabrielMolina/python-zoho-crm-bridge)
 
-> **Engineering Focus:** Event-Driven Architecture, Stateless Microservices, and OAuth2 Lifecycle Management.
+> **Engineering Focus:** Event-Driven Architecture, Data Validation, and Enterprise Integration.
 
 </div>
 
-A professional-grade middleware service synchronizing real-time database events to external CRM platforms.
+A robust, multi-layered middleware pipeline synchronizing real-time database events into external CRM platforms.
 
-**Event-Driven Pipeline:** Engineered PostgreSQL Triggers to detect table inserts, pushing real-time payloads to an n8n orchestration layer for data normalization.
+**Event-Driven Orchestration:** Engineered a decoupled flow where a Node.js backend writes to PostgreSQL, which is passively monitored by an n8n orchestration layer to detect state changes in real-time.
 
-**Stateless Token Management:** Developed an asynchronous FastAPI microservice (using `asyncpg` pooling) that autonomously handles OAuth2 refresh flows, persisting state securely in a dedicated database schema.
+**Strict Payload Validation:** Developed a Python endpoint acting as a secure gateway, leveraging `Pydantic` for rigorous data validation and sanitization before processing external requests.
 
-**Production-Ready Security:** Implemented a dual-layer security model utilizing `X-API-Key` header validation for webhook writes, and Basic Auth for Swagger UI discovery.
+**Automated CRM Injection:** Translates normalized database events into structured API calls, autonomously inserting validated leads into Zoho CRM without human intervention.
 
-**Scalable Infrastructure:** 12-Factor App compliant, fully containerized (Docker), and designed to scale horizontally behind a load balancer.
+**Scalable Separation of Concerns:** Microservice-oriented design isolating database writes (Node.js), event routing (n8n), and API validation/execution (Python).
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat&logo=n8n&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat&logo=n8n&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 </div>
 
