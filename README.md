@@ -38,6 +38,34 @@
 
 <br>
 
+### 🚀 [Industrial-Grade Data Ingestion Pipeline](https://github.com/IGabrielMolina/stress-test-mkn)
+
+> **Engineering Focus:** Distributed Systems, Backpressure Management, and Fault Tolerance.
+
+</div>
+
+A highly scalable, fault-tolerant **Proof of Concept (PoC)** designed to handle massive telemetry data spikes without data loss or gateway timeouts.
+
+**Decoupled Architecture:** Engineered a queue-based system utilizing a message broker to separate API ingestion from database writing, effectively mitigating backpressure during traffic spikes.
+
+**Horizontal Scalability:** Deployed a cluster of isolated worker nodes capable of asynchronously processing high-volume loads (e.g., IoT sensors, bulk ERP migrations) without crashing the main gateway.
+
+**Real-Time Telemetry:** Implemented a live monitoring dashboard to track cluster health, worker distribution, and database write metrics in real-time.
+
+<div align="center">
+  <a href="https://github.com/IGabrielMolina/stress-test-mkn">
+    <img src="https://raw.githubusercontent.com/IGabrielMolina/stress-test-mkn/main/mkn.png" alt="Architecture Diagram" width="80%">
+  </a>
+</div>
+
+<div align="center">
+
+![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat&logo=n8n&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+</div>
+
+<br>
+
 ### 💳 [kitsu-fintech-engine: Autonomous Financial Pipeline](https://github.com/IGabrielMolina/kitsu-fintech-engine)
 
 > **Engineering Focus:** Protocol Bridging, Asynchronous Scaling, and Deterministic Validation.
