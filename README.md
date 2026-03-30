@@ -37,6 +37,54 @@
 ## 🏆 High-Impact Projects
 
 <br>
+<div align="center">
+
+### 🎫 [LangKit: Agentic AI Ticket Intelligence](https://github.com/IGabrielMolina/LangKit)
+
+> **Engineering Focus:** Agentic Workflows, Service-Oriented Architecture (SOA), and Preventive Persistence.
+
+</div>
+
+A production-ready **Support Ticket Orchestrator** combining decoupled services with state-machine AI logic for local, privacy-first execution.
+
+**Agentic Orchestration:** Engineered a Directed Acyclic Graph (DAG) using `LangGraph` to handle complex LLM feedback loops and self-correction cycles, moving beyond linear scripts.
+
+**Service-Oriented Architecture (SOA):** Separated inference (local Ollama), business logic (FastAPI), and frontend (Streamlit) into isolated, dockerized containers to ensure system resilience.
+
+**Preventive Persistence:** Implemented a Write-Ahead Logging pattern with SQLite to guarantee zero data loss during unpredictable LLM inference failures or hardware limits.
+
+**Strict Deterministic Validation:** Enforced highly structured JSON outputs leveraging `Pydantic` and Qwen 2.5 14B, eliminating hallucinated formatting and ensuring API compliance.
+
+```mermaid
+sequenceDiagram
+    actor U as User
+    participant API as FastAPI
+    participant DB as SQLite
+    participant LG as LangGraph
+    participant OLL as Ollama (Local)
+
+    U->>API: POST /ticket JSON
+    Note over API: Pydantic Validation
+    API->>DB: INSERT ticket (Preventive Save)
+    API->>LG: Start Graph (ticket_id + text)
+    LG->>OLL: Structured Inference
+    OLL-->>LG: Classified JSON
+    LG->>DB: UPDATE ticket (Final State)
+    LG-->>API: Result
+    API-->>U: 200 Success
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-DD0031?style=flat) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat&logo=ollama&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+</div>
+
+<br>
+
+<br>
+
+<br>
 
 ### 🚀 [Industrial-Grade Data Ingestion Pipeline](https://github.com/IGabrielMolina/stress-test-mkn)
 
