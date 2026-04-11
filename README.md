@@ -101,6 +101,46 @@ A highly scalable, fault-tolerant **Proof of Concept (PoC)** designed to handle 
 **Real-Time Telemetry:** Implemented a live monitoring dashboard to track cluster health, worker distribution, and database write metrics in real-time.
 
 
+```mermaid
+flowchart LR
+    %% External Nodes
+    IoT([Python Simulator IoT])
+
+    %% Layers
+    subgraph Ingestion Layer
+        Gateway[n8n Main Gateway]
+        Broker[(Redis Message Broker)]
+    end
+
+    subgraph Compute Cluster
+        W_Alfa[Worker Alfa]
+        W_Beta[Worker Beta]
+        W_Gama[Worker Gama]
+    end
+
+    subgraph Persistence Layer
+        DB[(PostgreSQL)]
+    end
+
+    subgraph Output Layer
+        Dash[MKN OS]
+    end
+
+    %% Flow execution
+    IoT -->|Incoming Data| Gateway
+    Gateway -->|Queue Push| Broker
+
+    Broker -->|JS Data Cleaning & Tagging| W_Alfa
+    Broker -->|JS Data Cleaning & Tagging| W_Beta
+    Broker -->|JS Data Cleaning & Tagging| W_Gama
+
+    W_Alfa -->|Async Write| DB
+    W_Beta -->|Async Write| DB
+    W_Gama -->|Async Write| DB
+
+    DB -.->|Cloudflare Tunnel| Dash
+```
+
 <div>
 
 ![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat&logo=n8n&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
