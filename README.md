@@ -1,7 +1,7 @@
-<div align="center">
+<div>
 
 # Hi there, I'm Gabriel Molina 👋
-### AI Automation Engineer | Backend Architect | Data Sovereignist
+### AI Systems Architect | Deterministic Agentic Workflows | Builder
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ivangabrielmolina)
 [![Mail Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gabeesd06s@gmail.com)
@@ -9,18 +9,18 @@
 <br>
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336791&center=true&vCenter=true&width=700&lines=Architecting+Stateful+AI+Systems;Engineering+Fault-Tolerant+Agents;100%25+Data+Sovereignty+%26+Local+LLMs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336791&center=true&vCenter=true&width=700&lines=Architecting+Stateful+AI+Systems;Closing+the+Loop:+Know+->+Do+->+Reflect;Engineering+Deterministic+Agents" alt="Typing SVG" />
 
 </div>
 
 ---
 
 ### 🚀 Engineering Philosophy
-> *I build systems that are Deterministic by Design. Whether it's a massive ETL pipeline or an AI Agent, my focus is on creating auditable, secure, and scalable infrastructures that provide real business value without compromising data integrity.*
+> *I build systems that are Deterministic by Design. I thrive at the intersection of creative problem-solving and rigorous engineering, moving beyond linear scripts to create **intelligence-driven architectures**. Whether it's a local LLM reasoning engine or an event-driven orchestrator, my focus is on building agents that actually close the loop—reflecting and adjusting based on real outcomes—while ensuring 100% data integrity.*
 
 ---
 
-<div align="center">
+<div>
 
 ### 🛠️ Technical Arsenal
 
@@ -32,12 +32,12 @@
 
 ---
 
-<div align="center">
+<div>
 
-## 🏆 High-Impact Projects
+## 🏆 High-Impact Projects (The Sandbox)
 
 <br>
-<div align="center">
+<div>
 
 ### 🎫 [LangKit: Agentic AI Ticket Intelligence](https://github.com/IGabrielMolina/LangKit)
 
@@ -45,9 +45,9 @@
 
 </div>
 
-A production-ready **Support Ticket Orchestrator** combining decoupled services with state-machine AI logic for local, privacy-first execution.
+A production-ready **Agentic Orchestrator** combining decoupled services with state-machine AI logic for local, privacy-first execution.
 
-**Agentic Orchestration:** Engineered a Directed Acyclic Graph (DAG) using `LangGraph` to handle complex LLM feedback loops and self-correction cycles, moving beyond linear scripts.
+**Agentic Orchestration:** Engineered a Directed Acyclic Graph (DAG) using `LangGraph` to handle complex LLM feedback loops and self-correction cycles, effectively **closing the loop** on non-deterministic AI outputs.
 
 **Service-Oriented Architecture (SOA):** Separated inference (local Ollama), business logic (FastAPI), and frontend (Streamlit) into isolated, dockerized containers to ensure system resilience.
 
@@ -74,7 +74,7 @@ sequenceDiagram
     API-->>U: 200 Success
 ```
 
-<div align="center">
+<div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-DD0031?style=flat) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat&logo=ollama&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
@@ -100,13 +100,8 @@ A highly scalable, fault-tolerant **Proof of Concept (PoC)** designed to handle 
 
 **Real-Time Telemetry:** Implemented a live monitoring dashboard to track cluster health, worker distribution, and database write metrics in real-time.
 
-<div align="center">
-  <a href="https://github.com/IGabrielMolina/stress-test-mkn">
-    <img src="https://raw.githubusercontent.com/IGabrielMolina/stress-test-mkn/main/mkn.png" alt="Architecture Diagram" width="80%">
-  </a>
-</div>
 
-<div align="center">
+<div>
 
 ![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat&logo=n8n&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
@@ -130,7 +125,7 @@ A high-performance **Middleware & ETL Pipeline** that bridges legacy protocols w
 
 **Resilient Persistence:** Optimized SQL schema with custom `Check Constraints` to ensure data integrity across the entire ingestion lifecycle.
 
-<div align="center">
+<div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat&logo=n8n&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
@@ -139,7 +134,7 @@ A high-performance **Middleware & ETL Pipeline** that bridges legacy protocols w
 <br>
 <br>
 
-<div align="center">
+<div>
 
 ### 🦊 [Kitsu_Agent: Sovereign On-Premise AI Orchestrator](https://github.com/IGabrielMolina/Kitsu_agent)
 [![Demos Included](https://img.shields.io/badge/🎥_Live_Demos_Inside-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://github.com/IGabrielMolina/Kitsu_agent)
@@ -156,7 +151,7 @@ A secure **AI Orchestration Engine** featuring metadata-based RBAC and self-heal
 
 **Security:** Deterministic RBAC ensuring users only access authorized vectors in Qdrant.
 
-<div align="center">
+<div>
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
@@ -165,7 +160,7 @@ A secure **AI Orchestration Engine** featuring metadata-based RBAC and self-heal
 <br>
 <br>
 
-<div align="center">
+<div>
 
 ### ⚡ [python-zoho-crm-bridge: Event-Driven CRM Middleware](https://github.com/IGabrielMolina/python-zoho-crm-bridge)
 
@@ -183,7 +178,7 @@ A robust, multi-layered middleware pipeline synchronizing real-time database eve
 
 **Scalable Separation of Concerns:** Microservice-oriented design isolating database writes (Node.js), event routing (n8n), and API validation/execution (Python).
 
-<div align="center">
+<div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![n8n](https://img.shields.io/badge/n8n-FF6560?style=flat&logo=n8n&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
@@ -191,7 +186,7 @@ A robust, multi-layered middleware pipeline synchronizing real-time database eve
 
 ---
 
-<div align="center">
+<div>
   <p>Currently based in Argentina (UTC-3) 🇦🇷</p>
   <p>Open for Global Engineering Opportunities</p>
 </div>
