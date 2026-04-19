@@ -9,14 +9,14 @@
 <br>
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336791&center=true&vCenter=true&width=700&lines=Architecting+Stateful+AI+Systems;Closing+the+Loop:+Know+->+Do+->+Reflect;Engineering+Deterministic+Agents" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336791&center=true&vCenter=true&width=700&lines=Architecting+Stateful+AI+Systems;Know+->+Do+->+Reflect;Engineering+Deterministic+Agents" alt="Typing SVG" />
 
 </div>
 
 ---
 
 ### 🚀 Engineering Philosophy
-> *I build systems that are Deterministic by Design. I thrive at the intersection of creative problem-solving and rigorous engineering, moving beyond linear scripts to create **intelligence-driven architectures**. Whether it's a local LLM reasoning engine or an event-driven orchestrator, my focus is on building agents that actually close the loop—reflecting and adjusting based on real outcomes—while ensuring 100% data integrity.*
+> *I build systems that are Deterministic by Design. I thrive at the intersection of creative problem-solving and rigorous engineering, moving beyond linear scripts to create **intelligence-driven architectures**. Whether it's a local LLM reasoning engine or an event-driven orchestrator, my focus is on building agents that actually close the loop—reflecting and adjusting based on real outcomes—while maintaining strict data integrity and system observability.*
 
 ---
 
@@ -155,7 +155,7 @@ flowchart LR
 
 </div>
 
-A high-performance **Middleware & ETL Pipeline** that bridges legacy protocols with modern AI-driven orchestration.
+A high-performance **Middleware & ETL Pipeline** that bridges legacy protocols with modern AI-driven orchestration to execute financial tasks **reliably** at scale.
 
 **Legacy-to-Modern Bridge:** Engineered a seamless integration between legacy mail protocols (IMAP/SMTP via SMTP4dev) and a modern REST API architecture.
 
@@ -227,6 +227,7 @@ A robust, multi-layered middleware pipeline synchronizing real-time database eve
 ---
 
 <div>
-  <p>Currently based in Argentina (UTC-3) 🇦🇷</p>
-  <p>Open for Global Engineering Opportunities</p>
+  <p>📍 Currently based in Argentina (UTC-3) 🇦🇷</p>
+  <p>🌍 <b>Fully available for EMEA/UK business hours</b> (Starting at 7:00 AM UTC-3)</p>
+  <p>🚀 Open for Global Engineering Opportunities</p>
 </div>
