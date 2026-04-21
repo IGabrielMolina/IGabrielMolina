@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Engineering Philosophy
-> **Deterministic by Design.** I specialize in replacing fragile, linear scripts with **intelligence-driven architectures**. My focus is on building autonomous agents that operate within strict engineering guardrails—utilizing self-correction loops and state-machine logic to ensure 100% data integrity and system observability in mission-critical environments.
+> **Deterministic by Design.** I specialize in replacing fragile, linear scripts with **intelligence-driven architectures**. My focus is on building autonomous agents that operate within strict engineering guardrails, utilizing self-correction loops and state-machine logic to ensure 100% data integrity and system observability in mission-critical environments.
 
 ---
 
@@ -109,7 +109,7 @@ High-performance middleware bridging legacy financial protocols with modern AI o
 ### 🦊 [Kitsu_Agent: Sovereign On-Premise AI Orchestrator](https://github.com/IGabrielMolina/Kitsu_agent)
 > **Engineering Focus:** Security, Observability, and Data Sovereignty.
 
-A secure **AI Orchestration Engine** featuring metadata-based RBAC. Designed for zero-egress environments where data privacy is non-negotiable. It runs `DeepSeek-R1` locally via Ollama—ensuring 100% data sovereignty.
+A secure **AI Orchestration Engine** featuring metadata-based RBAC. Designed for zero-egress environments where data privacy is non-negotiable. It runs `DeepSeek-R1` locally via Ollama ensuring 100% data sovereignty.
 
 ---
 
