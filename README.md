@@ -1,6 +1,6 @@
 <div>
 
-# Lead Automation Engineer & AI Systems Architect 👋
+# Lead Automation Engineer & AI Systems Architect
 ### Deterministic Agentic Workflows - Infrastructure Reliability - n8n Expert
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ivangabrielmolina)
